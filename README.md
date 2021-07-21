@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Lennster1/Lennster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Hypixel-Skyblock-Utilities, and other cool stuff!
+- 🌱 I’m currently learning Python and node.js
+- 📫 How to reach me: Discord @Lennster#4276
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am very Poggers :)
+
+  _      ______ _   _ _   _  _____ _______ ______ _____  __   _ _ _ _ _ _ _ _ _ 
+ | |    |  ____| \ | | \ | |/ ____|__   __|  ____|  __ \/_ | | | | | | | | | | |
+ | |    | |__  |  \| |  \| | (___    | |  | |__  | |__) || | | | | | | | | | | |
+ | |    |  __| | . ` | . ` |\___ \   | |  |  __| |  _  / | | | | | | | | | | | |
+ | |____| |____| |\  | |\  |____) |  | |  | |____| | \ \ | | |_|_|_|_|_|_|_|_|_|
+ |______|______|_| \_|_| \_|_____/   |_|  |______|_|  \_\|_| (_|_|_|_|_|_|_|_|_)
+  \ \                                                                           
+ (_) |                                                                          
+   | |                                                                          
+  _| |                                                                          
+ (_) |                                                                          
+  /_/                                                                           
+                                                                                
+
