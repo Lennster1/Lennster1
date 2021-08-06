@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Hypixel-Skyblock-Utilities, and other cool stuff!  
+- 🔭 I’m currently working on Hypixel-Skyblock-Utilities, maybe some stuff of Kafium,
 - 🌱 I’m currently learning Python and node.js  
 - 📫 How to reach me: Discord @Lennster# 4276  
 - 😄 Pronouns: He/Him  
