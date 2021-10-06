@@ -9,3 +9,4 @@
 - ⚡ Fun fact: I am very Poggers :)  
 - Thanks for stopping by! 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lennster1&show_icons=true&theme=radical)
