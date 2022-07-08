@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Chatters, which is a simple web chat app. I'm also working on Hypixel-Skyblock-Utilities.
-- 🌱 I’m currently learning JS, Python, and Go.
+- 🔭 I’m currently working on a 3D level-based game in unity
+- 🌱 I’m currently learning Go and C# for Unity
 - 📫 How to reach me: Discord @Lennster# 4276  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I am very Poggers :)  
