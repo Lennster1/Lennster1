@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a 3D level-based game in unity
-- 🌱 I’m currently learning Go and C# for Unity
+- 🔭 I’m currently working on a Cloudi, a simple weather web app
+- 🌱 I’m currently learning how to make web apps
 - 📫 How to reach me: Discord @Lennster# 4276  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I am very Poggers :)  
