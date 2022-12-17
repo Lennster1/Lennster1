@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a Cloudi, a simple weather web app
-- 🌱 I’m currently learning how to make web apps
+- 🔭 I’m currently working on Nothing, because i'm lazy.
+- 🌱 I’m currently learning how to make be good at life
 - 📫 How to reach me: Discord @Lennster# 4276  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I am very Poggers :)  
